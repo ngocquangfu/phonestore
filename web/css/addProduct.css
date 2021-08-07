@@ -1,0 +1,18 @@
+h2{
+    font-size: 40px;
+    color:white;
+
+}
+
+footer {
+
+    padding: 40px;
+    padding-bottom: 0px; 
+}
+footer a {
+    color: #f8f9fa!important
+}
+#footer-color{
+    background: #343a40;
+}
+
